@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=atm_project
+comment1.params=
+comment1.target=void\ new_acc()
+comment2.params=pin_num
+comment2.target=void\ checkbalance(int)
+comment3.params=pin_num\ p
+comment3.target=int\ withdraw(int,\ int)
+comment4.params=pin_num\ p
+comment4.target=int\ deposit(int,\ int)
+comment5.params=acc_num
+comment5.target=void\ print(int)
+numComments=6
